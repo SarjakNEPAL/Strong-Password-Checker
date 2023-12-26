@@ -79,7 +79,7 @@ a=ttk.Label(main, text="Enter Your password",font=("Helvetica", 25))
 b=ttk.Label(main, text="Some ideas for Strong passwords: \n 1.{} \n 2.{} \n 3.{}".format(m,n,o))
 input_text = tk.Text(main, height=5, width=30)
 
-
+print()
 
 #buttons
 if(i<2):
